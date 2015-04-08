@@ -1,5 +1,5 @@
-!.gitignore
-!.npmignore
+.gitignore
+.npmignore
 .idea/
 nbproject/
 
