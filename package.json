@@ -1,7 +1,7 @@
 {
-  "name": "ServiceLocator",
+  "name": "Pager",
   "version": "1.0.0",
-  "description": "Dependency injection approach using Service Locator pattern",
+  "description": "implementation of a management tool display pages and pagination.",
   "main": "pager.js",
   "scripts": {
     "test": "mocha",
